@@ -5,7 +5,7 @@
 1. Fork this repo 
 2. Choose "Read and write permissions" in [Workflow permissions](../../settings/actions)
 3. Enable the workflow in [Actions](../../actions)
-4. Replace YOUR-USERNAME and YOUR-REPO-NAME in `![](https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)`
+4. Replace YOUR-USERNAME and YOUR-REPO-NAME in ![](https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ## Example
 
